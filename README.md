@@ -1,7 +1,7 @@
 # Dynamic Animation Example
 
 [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-[![API](https://img.shields.io/badge/API-19%2B-green.svg?style=flat)](https://android-arsenal.com/api?level=19)
+[![API](https://img.shields.io/badge/API-16%2B-green.svg?style=flat)](https://android-arsenal.com/api?level=16)
 
 ### 
 [Dynamic-animation](https://developer.android.com/reference/android/support/animation/package-summary.html) is a new module introduced in [revision 25.3.0 of the Android Support Library](https://developer.android.com/topic/libraries/support-library/revisions.html#25-3-0). It provides a small set of classes for making realistic physics-based view animations.
@@ -44,7 +44,7 @@ Well, it won’t really be generic in a programming sense, but let’s start wi
     }
 ```
     
-### Simple Examples
+### Examples
 ![alt text](media/example.gif "Animation examples")
 
 ### Position
