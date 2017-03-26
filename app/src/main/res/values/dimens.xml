@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="image_margin">16dp</dimen>
+    <dimen name="get_it_button_width">128dp</dimen>
+    <dimen name="get_it_button_height">36dp</dimen>
+</resources>

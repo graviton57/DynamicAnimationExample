@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dynamic Animation Example</string>
+    <string name="action_about">About</string>
+</resources>
