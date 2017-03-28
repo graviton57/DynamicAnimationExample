@@ -44,7 +44,7 @@ Well, it won’t really be generic in a programming sense, but let’s start wi
     }
 ```
     
-### Examples
+### Preview
 ![alt text](media/example.gif "Animation examples")
 
 ### Position
@@ -72,10 +72,9 @@ As usual, there’s a view on our screen (it could be a photo) which has the fol
 3. Release it.
 4. The view scales back to its original size.
 
-Enjoy!
+Feel free to fork, contribute and poke at the code.
 
 Developed By
 -------
 Igor Havrylyuk (Graviton57)
 
-[1]: https://github.com/graviton57/DynamicAnimationExample.git
