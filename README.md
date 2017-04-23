@@ -1,5 +1,6 @@
 # Dynamic Animation Example
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Dynamic%20Animation%20Example-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/5635)
 [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![API](https://img.shields.io/badge/API-16%2B-green.svg?style=flat)](https://android-arsenal.com/api?level=16)
 
